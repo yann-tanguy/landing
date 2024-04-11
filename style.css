@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Alegreya+SC:wght@500&family=EB+Garamond&display=swap");
+
+@import url("css/container.css");
+@import url("css/button.css");
+@import url("css/banner.css");
+@import url("css/card.css");
+
+
+h1, h2, h3{
+	font-family: "Alegreya SC", serif;
+}
+
+body{
+	font-family: "EB Garamond", serif;
+	font-size: 15px;
+	margin:0px;
+}
+
+a{ 
+ text-decoration: none;
+
+ }
+
+

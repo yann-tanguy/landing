@@ -1,0 +1,11 @@
+.btn-black{
+
+	background-color: #020803;
+	padding: 15px 25px;
+	border-radius: 4px;
+	color:floralwhite;
+}
+
+.btn-black:hover{
+	background-color: #974D62;
+}
